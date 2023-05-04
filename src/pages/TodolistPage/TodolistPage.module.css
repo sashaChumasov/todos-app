@@ -1,0 +1,6 @@
+.todoBlock {
+    margin: 10px 10px;
+    width: 180px;
+    min-height: 140px;
+    border: 1px solid black;
+}
