@@ -5,4 +5,5 @@ export interface ITask {
 }
 export type ITaskProps = {
     tasks: ITask[]
+    removeTask: (taskId: number) => void
 }
